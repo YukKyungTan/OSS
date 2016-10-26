@@ -6,7 +6,7 @@ int main()
   printf("First Github Tranning \n");
   
   printf(" \n");
-  printf("2012244028  \n");
+  printf("2012244028 탄 \n");
   
   return 0;
 }
